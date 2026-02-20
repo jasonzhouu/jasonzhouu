@@ -71,7 +71,10 @@ Claude Code · Windsurf
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   0 secs                ██████████████▓░░░░░░░░░░   59.04 %
+.env file    0 secs                ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Bash         0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+JSON         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
