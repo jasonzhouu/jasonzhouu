@@ -71,11 +71,11 @@ Claude Code · Windsurf
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 34 mins         ████████████████░░░░░░░░░   64.30 %
-JSON             1 hr 3 mins           ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Markdown         46 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-.env file        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Image (svg)      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript       10 hrs 15 mins        ███████████████████░░░░░░   75.91 %
+JSON             1 hr 33 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Markdown         47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+HTML             17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+.env file        14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
