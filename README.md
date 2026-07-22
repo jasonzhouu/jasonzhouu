@@ -68,15 +68,4 @@ Claude Code · Windsurf · MCP Servers (Context7, Chrome DevTools) · Agentic Wo
 > *I enjoy working on complex frontend problems where product, architecture, and user experience truly matter.*
 
 
--------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
